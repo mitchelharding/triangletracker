@@ -1,0 +1,14 @@
+*{
+  text-align: center;
+}
+
+button{
+  margin: 10px;
+}
+
+.result{
+  margin:20px;
+  border: solid blue 1px;
+  padding: 10px;
+  display:none;
+}
